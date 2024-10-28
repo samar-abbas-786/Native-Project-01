@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+               blueprintIdentifier = "13B07F861A680F5B00A75B9A"
                BuildableName = "Project01.app"
-               BlueprintName = "Project01"
+               blueprintName = "Project01"
                ReferencedContainer = "container:Project01.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "00E356ED1AD99517003FC87E"
+               blueprintIdentifier = "00E356ED1AD99517003FC87E"
                BuildableName = "Project01Tests.xctest"
-               BlueprintName = "Project01Tests"
+               blueprintName = "Project01Tests"
                ReferencedContainer = "container:Project01.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -54,9 +54,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            blueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "Project01.app"
-            BlueprintName = "Project01"
+            blueprintName = "Project01"
             ReferencedContainer = "container:Project01.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -71,9 +71,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            blueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "Project01.app"
-            BlueprintName = "Project01"
+            blueprintName = "Project01"
             ReferencedContainer = "container:Project01.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
